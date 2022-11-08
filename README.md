@@ -16,4 +16,4 @@ hoje, venho quente e disciplinado em busca do meu espaço no mundo :rage1: <br> 
 </div>
 
 <!--Codigo da cobrinha abaixo--!>
-![Snake animation](https://github.com/seu-usuário-aqui/leagueliine/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leagueliine/leagueliine/blob/output/github-contribution-grid-snake.svg)
