@@ -7,6 +7,10 @@ hoje, venho quente e disciplinado em busca do meu espaço no mundo :rage1: <br> 
 
 <!--gif aqui--!>
 
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
  <h2>Minhas Estatísticas</h2>
 
 <div>
@@ -15,4 +19,5 @@ hoje, venho quente e disciplinado em busca do meu espaço no mundo :rage1: <br> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leagueliine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
