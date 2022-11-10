@@ -6,10 +6,13 @@ hoje, venho quente e disciplinado em busca do meu espaço no mundo :rage1: <br> 
 :computer:Estou cursando análise e desenvolvimento de sistemas, mas sendo sincero, me tornei um desenvolvedor front end com conteúdos da internet e curso extracurrículares de algumas plataformas na qual eu super recomendo como, <strong>RocketSeat, DevMedia, Alura, Origamid, DevQuest </strong> entre outros.<br><br>
 
 <!--gif aqui--!>
-
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+</div>
 
  <h2>Minhas Estatísticas</h2>
 
